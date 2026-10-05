@@ -1,3 +1,3 @@
 const CONFIG = {
-  WS_URL: 'ws://localhost:8080'
+  WS_URL: 'wss://backend-afe0c2.kyracloud.com'
 };
